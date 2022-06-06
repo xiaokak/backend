@@ -1,7 +1,6 @@
 <template>
   <page-view :title="false">
     <banner/>
-    <page1/>
   </page-view>
 </template>
 
